@@ -20,3 +20,5 @@ target/test-classes/com/bv/app/TestRunner/TestRunner.class
 .idea/.name
 .idea/compiler.xml
 target/classes/Features/Login.feature
+.idea/*
+target/*
